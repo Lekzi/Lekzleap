@@ -11,3 +11,7 @@ $cd Lekzleap
 $python3 lekzleap.py
 
 
+Username for Lekzleap
+Username:Lekzleap
+Password: Lekzleap@112
+
