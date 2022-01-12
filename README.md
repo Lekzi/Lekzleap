@@ -1,5 +1,5 @@
 # Lekzleap
-This tool is for calculating Leap year
+Lekzleap is a python tool created by Lêkzï is for automatically calculating Leap year
 
 Installation
 apt update && upgrade
