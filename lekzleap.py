@@ -14,8 +14,10 @@ def loop():
 	print("""
 	Tool Name:Lekzleap
 	Creator:Lêkzï
-	Contact me on whatsapp:+2347064822519
-	""")
+	Team:Greyhax0rs
+        Contact me on whatsapp:+2347064822519
+        Special thanks to spider Anon greyhat for his support
+        """)
 	t.sleep(5)
 print("Login to Lekzleap")
 uname = input("Username: ")
